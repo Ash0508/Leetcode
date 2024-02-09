@@ -26,27 +26,66 @@
 //               {
 //                   ans+=cnt;
 //               }
-//         chars = ans.toCharArray();
-//          return chars.length;
 //     }
 // }
 
 
+// class Solution {
+//     public int compress(char[] chars) { 
+//  int indAns = 0, ind = 0;
+//         while(ind < chars.length){
+//             char currChar = chars[ind];
+//             int count = 0;
+//             while(ind < chars.length && chars[ind] == currChar){
+//                 ind++;
+//                 count++;
+//             }
+//             chars[indAns++] = currChar;
+//             if(count != 1)
+//                 for(char c : Integer.toString(count).toCharArray()) 
+//                     chars[indAns++] = c;
+//         }
+//         return indAns;
+//     }
+// }
+
+
+
 class Solution {
-    public int compress(char[] chars) { 
- int indexAns = 0, index = 0;
-        while(index < chars.length){
-            char currentChar = chars[index];
-            int count = 0;
-            while(index < chars.length && chars[index] == currentChar){
-                index++;
+    public int compress(char[] chars) {
+        StringBuilder sb=new StringBuilder();
+        
+        int i=1;
+        int count=1;
+        sb.append(chars[0]);
+        
+        while(i<chars.length)
+        {
+            if(chars[i] == chars[i-1])
+            {
                 count++;
             }
-            chars[indexAns++] = currentChar;
-            if(count != 1)
-                for(char c : Integer.toString(count).toCharArray()) 
-                    chars[indexAns++] = c;
+            else{
+                if(count>1)
+                {
+                    sb.append(count);
+                }
+                sb.append(chars[i]);
+                count =1;
+            }
+        
+                i++;
         }
-        return indexAns;
+         
+    
+    if(count>1)
+    {
+        sb.append(count);
+    }
+   for(int j=0;j<sb.length();j++)
+       chars[j]=sb.charAt(j);
+       
+        return sb.length();
     }
 }
+
