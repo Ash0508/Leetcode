@@ -14,6 +14,8 @@ class Solution {
             else nge[i]=st.peek();
             st.push(i);
         }
+
+        
         
         
         for(int i=0;i<n-k+1;i++)
