@@ -1,4 +1,4 @@
-# LeetCode Solutions
+# LeetCode Solutions in JAVA
 
 Welcome to my LeetCode Solutions repository! Here, I have uploaded solutions to more than 100 LeetCode problems. Each solution is written in Java and is accompanied by the problem statement for easy reference.
 
@@ -104,126 +104,7 @@ The repository is organized as follows:
 | 0103      | [Binary Tree Zigzag Level Order Traversal](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal) | 0 ms           | 39.8 MB       |
 | 0104      | [Maximum Depth of Binary Tree](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree) | 0 ms           | 40.1 MB       |
 | 0105      | [Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) | 1 ms           | 39.7 MB       |
-| 0106      | [Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal) | 1 ms           | 39.5 MB       |
-| 0107      | [Binary Tree Level Order Traversal II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0107-binary-tree-level-order-traversal-ii) | 0 ms           | 39.6 MB       |
-| 0108      | [Convert Sorted Array to Binary Search Tree](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree) | 0 ms           | 39.6 MB       |
-| 0109      | [Convert Sorted List to Binary Search Tree](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree) | 1 ms           | 41 MB         |
-| 0110      | [Balanced Binary Tree](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0110-balanced-binary-tree) | 0 ms           | 40.7 MB       |
-| 0111      | [Minimum Depth of Binary Tree](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree) | 0 ms           | 41.1 MB       |
-| 0112      | [Path Sum](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0112-path-sum)                   | 0 ms           | 41.4 MB       |
-| 0113      | [Path Sum II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0113-path-sum-ii)             | 0 ms           | 41.6 MB       |
-| 0114      | [Flatten Binary Tree to Linked List](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list) | 0 ms           | 41.2 MB       |
-| 0115      | [Distinct Subsequences](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0115-distinct-subsequences) | 1 ms           | 36.9 MB       |
-| 0116      | [Populating Next Right Pointers in Each Node](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0116-populating-next-right-pointers-in-each-node) | 0 ms           | 39.5 MB       |
-| 0117      | [Populating Next Right Pointers in Each Node II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii) | 0 ms           | 41.3 MB       |
-| 0118      | [Pascal's Triangle](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0118-pascals-triangle)   | 0 ms           | 39.7 MB       |
-| 0119      | [Pascal's Triangle II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii) | 0 ms           | 39.4 MB       |
-| 0120      | [Triangle](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0120-triangle)                   | 0 ms           | 39.4 MB       |
-| 0121      | [Best Time to Buy and Sell Stock](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock) | 1 ms           | 37.9 MB       |
-| 0122      | [Best Time to Buy and Sell Stock II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii) | 0 ms           | 37.9 MB       |
-| 0123      | [Best Time to Buy and Sell Stock III](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii) | 3 ms           | 38.1 MB       |
-| 0124      | [Binary Tree Maximum Path Sum](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum) | 1 ms           | 41.1 MB       |
-| 0125      | [Valid Palindrome](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0125-valid-palindrome)   | 1 ms           | 39.1 MB       |
-| 0126      | [Word Ladder II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0126-word-ladder-ii)       | 38 ms          | 14.6 MB       |
-| 0127      | [Word Ladder](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0127-word-ladder)             | 340 ms         | 40.8 MB       |
-| 0128      | [Longest Consecutive Sequence](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence) | 1 ms           | 39.4 MB       |
-| 0129      | [Sum Root to Leaf Numbers](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0129-sum-root-to-leaf-numbers) | 0 ms           | 37.6 MB       |
-| 0130      | [Surrounded Regions](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0130-surrounded-regions) | 4 ms           | 41.6 MB       |
-| 0131      | [Palindrome Partitioning](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0131-palindrome-partitioning) | 7 ms           | 47.5 MB       |
-| 0132      | [Palindrome Partitioning II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0132-palindrome-partitioning-ii) | 13 ms          | 39.6 MB       |
-| 0133      | [Clone Graph](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0133-clone-graph)             | 0 ms           | 33.6 MB       |
-| 0134      | [Gas Station](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0134-gas-station)             | 0 ms           | 39.4 MB       |
-| 0135      | [Candy](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0135-candy)                       | 3 ms           | 39.6 MB       |
-| 0136      | [Single Number](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0136-single-number)         | 0 ms           | 38.7 MB       |
-| 0137      | [Single Number II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0137-single-number-ii)   | 4 ms           | 39.2 MB       |
-| 0138      | [Copy List with Random Pointer](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer) | 0 ms           | 12.8 MB       |
-| 0139      | [Word Break](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0139-word-break)               | 0 ms           | 39.8 MB       |
-| 0140      | [Word Break II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0140-word-break-ii)         | 1 ms           | 39.4 MB       |
-| 0141      | [Linked List Cycle](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0141-linked-list-cycle) | 0 ms           | 40.5 MB       |
-| 0142      | [Linked List Cycle II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0142-linked-list-cycle-ii) | 0 ms           | 40.6 MB       |
-| 0143      | [Reorder List](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0143-reorder-list)           | 1 ms           | 41.7 MB       |
-| 0144      | [Binary Tree Preorder Traversal](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal) | 0 ms           | 37.1 MB       |
-| 0145      | [Binary Tree Postorder Traversal](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal) | 0 ms           | 37.7 MB       |
-| 0146      | [LRU Cache](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0146-lru-cache)                 | 23 ms          | 42.7 MB       |
-| 0147      | [Insertion Sort List](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0147-insertion-sort-list) | 2 ms           | 40.6 MB       |
-| 0148      | [Sort List](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0148-sort-list)                 | 4 ms           | 47.6 MB       |
-| 0149      | [Max Points on a Line](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0149-max-points-on-a-line) | 18 ms          | 14.8 MB       |
-| 0150      | [Evaluate Reverse Polish Notation](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation) | 1 ms           | 40.4 MB       |
-| 0151      | [Reverse Words in a String](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string) | 1 ms           | 39.4 MB       |
-| 0152      | [Maximum Product Subarray](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0152-maximum-product-subarray) | 0 ms           | 41.8 MB       |
-| 0153      | [Find Minimum in Rotated Sorted Array](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array) | 0 ms           | 39.3 MB       |
-| 0154      | [Find Minimum in Rotated Sorted Array II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii) | 0 ms           | 39.3 MB       |
-| 0155      | [Min Stack](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0155-min-stack)                 | 5 ms           | 8.5 MB        |
-| 0156      | [Binary Tree Upside Down](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0156-binary-tree-upside-down) | 0 ms           | 36.9 MB       |
-| 0157      | [Read N Characters Given Read4](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0157-read-n-characters-given-read4) | 0 ms           | 37.4 MB       |
-| 0158      | [Read N Characters Given Read4 II - Call multiple times](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0158-read-n-characters-given-read4-ii-call-multiple-times) | 0 ms           | 39.3 MB       |
-| 0159      | [Longest Substring with At Most Two Distinct Characters](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0159-longest-substring-with-at-most-two-distinct-characters) | 5 ms           | 39.6 MB       |
-| 0160      | [Intersection of Two Linked Lists](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists) | 1 ms           | 42.4 MB       |
-| 0161      | [One Edit Distance](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0161-one-edit-distance) | 1 ms           | 37.9 MB       |
-| 0162      | [Find Peak Element](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0162-find-peak-element) | 0 ms           | 38.5 MB       |
-| 0163      | [Missing Ranges](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0163-missing-ranges)       | 0 ms           | 39.7 MB       |
-| 0164      | [Maximum Gap](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0164-maximum-gap)             | 5 ms           | 39.3 MB       |
-| 0165      | [Compare Version Numbers](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0165-compare-version-numbers) | 0 ms           | 37.8 MB       |
-| 0166      | [Fraction to Recurring Decimal](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0166-fraction-to-recurring-decimal) | 1 ms           | 37.7 MB       |
-| 0167      | [Two Sum II - Input array is sorted](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted) | 1 ms           | 38.7 MB       |
-| 0168      | [Excel Sheet Column Title](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0168-excel-sheet-column-title) | 0 ms           | 37.8 MB       |
-| 0169      | [Majority Element](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0169-majority-element)   | 1 ms           | 41.8 MB       |
-| 0170      | [Two Sum III - Data structure design](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0170-two-sum-iii-data-structure-design) | 12 ms          | 37.4 MB       |
-| 0171      | [Excel Sheet Column Number](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0171-excel-sheet-column-number) | 0 ms           | 37.8 MB       |
-| 0172      | [Factorial Trailing Zeroes](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes) | 0 ms           | 37.7 MB       |
-| 0173      | [Binary Search Tree Iterator](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator) | 15 ms          | 43.4 MB       |
-| 0174      | [Dungeon Game](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0174-dungeon-game)           | 1 ms           | 40.2 MB       |
-| 0175      | [Combine Two Tables](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0175-combine-two-tables) | 331 ms         | 0 KB          |
-| 0176      | [Second Highest Salary](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0176-second-highest-salary) | 370 ms         | 0 KB          |
-| 0177      | [Nth Highest Salary](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0177-nth-highest-salary) | 341 ms         | 0 KB          |
-| 0178      | [Rank Scores](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0178-rank-scores)             | 512 ms         | 0 KB          |
-| 0179      | [Largest Number](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0179-largest-number)       | 1 ms           | 37.7 MB       |
-| 0180      | [Consecutive Numbers](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0180-consecutive-numbers) | 306 ms         | 0 KB          |
-| 0181      | [Employees Earning More Than Their Managers](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0181-employees-earning-more-than-their-managers) | 319 ms         | 0 KB          |
-| 0182      | [Duplicate Emails](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0182-duplicate-emails)   | 285 ms         | 0 KB          |
-| 0183      | [Customers Who Never Order](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0183-customers-who-never-order) | 276 ms         | 0 KB          |
-| 0184      | [Department Highest Salary](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0184-department-highest-salary) | 306 ms         | 0 KB          |
-| 0185      | [Department Top Three Salaries](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0185-department-top-three-salaries) | 360 ms         | 0 KB          |
-| 0186      | [Reverse Words in a String II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0186-reverse-words-in-a-string-ii) | 1 ms           | 41.8 MB       |
-| 0187      | [Repeated DNA Sequences](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0187-repeated-dna-sequences) | 27 ms          | 9.7 MB        |
-| 0188      | [Best Time to Buy and Sell Stock IV](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv) | 2 ms           | 39.3 MB       |
-| 0189      | [Rotate Array](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0189-rotate-array)           | 1 ms           | 41.3 MB       |
-| 0190      | [Reverse Bits](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0190-reverse-bits)           | 0 ms           | 40.8 MB       |
-| 0191      | [Number of 1 Bits](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0191-number-of-1-bits)   | 0 ms           | 38.6 MB       |
-| 0192      | [Word Frequency](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0192-word-frequency)       | 315 ms         | 0 KB          |
-| 0193      | [Valid Phone Numbers](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0193-valid-phone-numbers) | 315 ms         | 0 KB          |
-| 0194      | [Transpose File](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0194-transpose-file)       | 309 ms         | 0 KB          |
-| 0195      | [Tenth Line](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0195-tenth-line)               | 289 ms         | 0 KB          |
-| 0196      | [Delete Duplicate Emails](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails) | 330 ms         | 0 KB          |
-| 0197      | [Rising Temperature](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0197-rising-temperature) | 516 ms         | 0 KB          |
-| 0198      | [House Robber](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0198-house-robber)           | 0 ms           | 37.5 MB       |
-| 0199      | [Binary Tree Right Side View](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view) | 0 ms           | 39.5 MB       |
-| 0200      | [Number of Islands](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0200-number-of-islands) | 1 ms           | 41.9 MB       |
-| 0201      | [Bitwise AND of Numbers Range](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0201-bitwise-and-of-numbers-range) | 0 ms           | 39.2 MB       |
-| 0202      | [Happy Number](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0202-happy-number)           | 0 ms           | 37.8 MB       |
-| 0203      | [Remove Linked List Elements](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0203-remove-linked-list-elements) | 1 ms           | 40.8 MB       |
-| 0204      | [Count Primes](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0204-count-primes)           | 11 ms          | 37.9 MB       |
-| 0205      | [Isomorphic Strings](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0205-isomorphic-strings) | 3 ms           | 39.7 MB       |
-| 0206      | [Reverse Linked List](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0206-reverse-linked-list) | 0 ms           | 40.9 MB       |
-| 0207      | [Course Schedule](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0207-course-schedule)     | 5 ms           | 38.3 MB       |
-| 0208      | [Implement Trie (Prefix Tree)](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0208-implement-trie-prefix-tree) | 7 ms           | 44 MB         |
-| 0209      | [Minimum Size Subarray Sum](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum) | 1 ms           | 40.3 MB       |
-| 0210      | [Course Schedule II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0210-course-schedule-ii) | 8 ms           | 39.1 MB       |
-| 0211      | [Design Add and Search Words Data Structure](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0211-design-add-and-search-words-data-structure) | 48 ms          | 55.7 MB       |
-| 0212      | [Word Search II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0212-word-search-ii)       | 106 ms         | 41.6 MB       |
-| 0213      | [House Robber II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0213-house-robber-ii)     | 0 ms           | 37.6 MB       |
-| 0214      | [Shortest Palindrome](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0214-shortest-palindrome) | 7 ms           | 39.8 MB       |
-| 0215      | [Kth Largest Element in an Array](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0215-kth-largest-element-in-an-array) | 1 ms           | 39.9 MB       |
-| 0216      | [Combination Sum III](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0216-combination-sum-iii) | 0 ms           | 37.5 MB       |
-| 0217      | [Contains Duplicate](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0217-contains-duplicate) | 3 ms           | 41.7 MB       |
-| 0218      | [The Skyline Problem](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0218-the-skyline-problem) | 17 ms          | 42.3 MB       |
-| 0219      | [Contains Duplicate II](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0219-contains-duplicate-ii) | 6 ms           | 39.8 MB       |
-| 0220      | [Contains Duplicate III](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0220-contains-duplicate-iii) | 9 ms           | 40.5 MB       |
-| 0221      | [Maximal Square](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0221-maximal-square)       | 5 ms           | 40.6 MB       |
-| 0222      | [Count Complete Tree Nodes](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes) | 0 ms           | 41.6 MB       |
-| 0223      | [Rectangle Area](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0223-rectangle-area)       | 1 ms           | 39.1 MB       |
-| 0224      | [Basic Calculator](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0224-basic-calculator)   | 6 ms           | 39.7 MB       |
-| 0225      | [Implement Stack using Queues](https://github.com/Ash0508/LeetCode-Solutions/tree/main/0225-implement-stack-using-queues) | 0 ms           | 36.6 MB       |
+
 
 
 ## How to Use
@@ -267,7 +148,9 @@ This repository covers the following topics:
 If you have any questions or feedback, feel free to reach out:
 
 - [GitHub Issues](https://github.com/Ash0508/Leetcode/issues)
-- [Email](singhankush0508@gmail.com)
+- [Leetcode-Profile](https://leetcode.com/u/Ankush0508/)
+- [Coding-Ninjas-Profile](https://www.naukri.com/code360/profile/luvkush0805)
+- [Geeks-for-Geeks](https://www.geeksforgeeks.org/user/singhankush0508luvkush/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user)
 - [LinkedIn](https://www.linkedin.com/in/ankush-singh-4459a824a/)
 - [Twitter](https://x.com/AnkushS00373636)
 
