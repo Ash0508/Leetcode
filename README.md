@@ -206,5 +206,4 @@ If you have any questions or feedback, feel free to reach out:
 - [LinkedIn](https://www.linkedin.com/in/ankush-singh-4459a824a/)
 - [Twitter](https://x.com/AnkushS00373636)
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
+
