@@ -1,11 +1,11 @@
-# LeetCode
-LeetCode is a Chrome extension that automatically pushes your code to GitHub when you pass all tests on a LeetCode problem. It is a fork of LeetHub-2.0, which is no longer compatible with LeetCode due to recent updates.
+# LeetHub
+LeetHub is a Chrome extension that automatically pushes your code to GitHub when you pass all tests on a LeetCode problem. It is a fork of LeetHub-2.0, which is no longer compatible with LeetCode due to recent updates.
 
-# Why LeetCode?
-LeetCode problems are not easily accessible in one place, and manually pushing code to GitHub from LeetCode can be time-consuming. LeetCode automates this process, saving you time and effort by eliminating the need for manual uploads.
+# Why LeetHub?
+LeetCode problems are not easily accessible in one place, and manually pushing code to GitHub from LeetCode can be time-consuming. LeetHub automates this process, saving you time and effort by eliminating the need for manual uploads.
 
 # Supported UI
-LeetCode supports two different LeetCode UIs. Please note that there are known issues with the "non-dynamic layout." For optimal performance, use one of the following:
+LeetHub supports two different LeetCode UIs. Please note that there are known issues with the "non-dynamic layout." For optimal performance, use one of the following:
 
 # Old layout
 New "dynamic layout"
@@ -16,7 +16,7 @@ A manual synchronization button is available next to the notes icon. Use this bu
 
 # Installation
 Download from Chrome Web Store
-The preferred way to install LeetCode is through the Chrome Web Store. Updates will be installed automatically.
+The preferred way to install LeetHub is through the Chrome Web Store. Updates will be installed automatically.
 
 # Manual Installation
 If you prefer manual installation, follow these steps:
@@ -24,6 +24,8 @@ If you prefer manual installation, follow these steps:
 # Create your own OAuth app in GitHub:
 
 Go to GitHub OAuth Applications
+Application Name: [CUSTOM]
+Homepage URL: https://github.com/Ash0508/Leetcode
 Authorization Callback URL: https://github.com/
 Store CLIENT_ID and CLIENT_SECRET confidentially.
 Download the project ZIP from the Releases section or clone the repository.
@@ -38,13 +40,14 @@ Enable Developer mode by toggling the switch in the top-right corner.
 
 Click "Load unpacked."
 
-Select the entire LeetCode folder.
+Select the entire LeetHub folder.
 
 # Setup
-After installing LeetCode, launch the extension.
-Click on "Authorize with GitHub" to set up your account with LeetCode.
-Set up an existing or new repository with LeetCode (default is private) by clicking "Get Started."
+After installing LeetHub, launch the extension.
+Click on "Authorize with GitHub" to set up your account with LeetHub.
+Set up an existing or new repository with LeetHub (default is private) by clicking "Get Started."
 Start coding on LeetCode! To view your progress, simply click on the extension.
+
 
 
 # LeetCode Solutions in JAVA
