@@ -1,71 +1,45 @@
 class Solution {
-    int count;
-
     public int reversePairs(int[] nums) {
-        count = 0;
-        merger(nums, 0, nums.length - 1);
+        if (nums == null || nums.length == 0) return 0;
+        return mergeSort(nums, 0, nums.length - 1);
+    }
+
+    private int mergeSort(int[] nums, int left, int right) {
+        if (left >= right) return 0;
+
+        int mid = left + (right - left) / 2;
+        int count = mergeSort(nums, left, mid) + mergeSort(nums, mid + 1, right);
+
+        // Count reverse pairs across halves
+        int j = mid + 1;
+        for (int i = left; i <= mid; i++) {
+            while (j <= right && (long) nums[i] > 2L * nums[j]) {
+                j++;
+            }
+            count += j - (mid + 1);
+        }
+
+        // Merge step
+        merge(nums, left, mid, right);
 
         return count;
     }
 
-    private ArrayList<Integer> merge(ArrayList<Integer> left, ArrayList<Integer> right) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        int i = 0;
-        int j = 0;
-        while (i < left.size() && j < right.size()) {
-            if (left.get(i) > right.get(j)) {
-                ans.add(right.get(j));
-                j++;
+    private void merge(int[] nums, int left, int mid, int right) {
+        int[] temp = new int[right - left + 1];
+        int i = left, j = mid + 1, k = 0;
+
+        while (i <= mid && j <= right) {
+            if (nums[i] <= nums[j]) {
+                temp[k++] = nums[i++];
             } else {
-                ans.add(left.get(i));
-                i++;
+                temp[k++] = nums[j++];
             }
-            /*
-             * else if(left.get(i) == right.get(j)){
-             * ans.add(left.get(i));
-             * ans.add(right.get(j));
-             * i++;
-             * j++;
-             * }
-             */
-        }
-        if (i < left.size()) {
-            while (i < left.size())
-                ans.add(left.get(i++));
-        }
-        if (j < right.size()) {
-            while (j < right.size())
-                ans.add(right.get(j++));
-        }
-        return ans;
-    }
-
-    private void helper(ArrayList<Integer> left, ArrayList<Integer> right) {
-        int i = 0;
-        int j = 0;
-        while (i < left.size() && j < right.size()) {
-            if (left.get(i) > 2 * (long) right.get(j)) {
-                count += left.size() - i;
-                j++;
-            } else
-                i++;
         }
 
-    }
+        while (i <= mid) temp[k++] = nums[i++];
+        while (j <= right) temp[k++] = nums[j++];
 
-    private ArrayList<Integer> merger(int[] nums, int start, int end) {
-        if (start == end) {
-            ArrayList<Integer> temp = new ArrayList<>();
-            temp.add(nums[start]);
-            return temp;
-        }
-        int mid = (start + end) / 2;
-
-        ArrayList<Integer> left = merger(nums, start, mid);
-        ArrayList<Integer> right = merger(nums, mid + 1, end);
-        helper(left, right);
-
-        return merge(left, right);
-
+        System.arraycopy(temp, 0, nums, left, temp.length);
     }
 }
