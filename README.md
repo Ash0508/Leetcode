@@ -218,4 +218,32 @@ If you have any questions or feedback, feel free to reach out:
 |  |
 | ------- |
 | [2887-sort-vowels-in-a-string](https://github.com/Ash0508/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
