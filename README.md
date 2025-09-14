@@ -213,6 +213,7 @@ If you have any questions or feedback, feel free to reach out:
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/Ash0508/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2887-sort-vowels-in-a-string](https://github.com/Ash0508/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ash0508/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -223,6 +224,7 @@ If you have any questions or feedback, feel free to reach out:
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
+| [1006-vowel-spellchecker](https://github.com/Ash0508/Leetcode/tree/master/1006-vowel-spellchecker) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ If you have any questions or feedback, feel free to reach out:
 ## Hash Table
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/Ash0508/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ash0508/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
