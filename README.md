@@ -225,6 +225,7 @@ If you have any questions or feedback, feel free to reach out:
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ash0508/Leetcode/tree/master/0493-reverse-pairs) |
 | [1006-vowel-spellchecker](https://github.com/Ash0508/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ash0508/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -253,9 +254,11 @@ If you have any questions or feedback, feel free to reach out:
 |  |
 | ------- |
 | [1006-vowel-spellchecker](https://github.com/Ash0508/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ash0508/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ash0508/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Ash0508/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Ash0508/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
